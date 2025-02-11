@@ -10,7 +10,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@first-apps/shared": "^1.1.6",
+    "@first-apps/shared": "1.1.14",
+    "@heroicons/react": "^2.1.5",
     "next": "15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
